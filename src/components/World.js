@@ -1,8 +1,5 @@
 import { Button, Container, Form, Row, Col, Select } from 'react-bootstrap';
 import React, { useState, useEffect } from 'react';
-import Select from 'react-select';
-// import Select from '@mui/joy/Select';
-// import Option from '@mui/joy/Option';
 
 import Country from './Country';
 
